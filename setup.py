@@ -42,7 +42,6 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Alice Capecchi",
-    author_email="alice.capecchi@outlook.it",
     license="MIT",
     url="https://github.com/reymond-group/map4",
     packages=find_packages(exclude=["contrib", "docs", "tests*"]),
