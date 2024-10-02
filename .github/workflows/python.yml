@@ -29,7 +29,7 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest tests/*
+        pytest tests/*.py
 
     - name: Build package
       run: |
