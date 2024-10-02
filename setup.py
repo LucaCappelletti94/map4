@@ -36,7 +36,7 @@ extras = {
 }
 
 setup(
-    name="MAP4",
+    name="map4",
     version=__version__,
     description="MinHashed AtomPair Fingerprint of Radius 2",
     long_description=long_description,
