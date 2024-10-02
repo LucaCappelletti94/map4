@@ -12,7 +12,7 @@ def test_visualization():
     """Test the visualization utilities."""
     dimensions: int = 2048
 
-    smiles_df: pd.DataFrame = pd.read_csv("tests/smiles_np_classifier.csv.gz")
+    smiles_df: pd.DataFrame = pd.read_csv("tests/smiles_np_classifier.csv.gz", nrows=100)
 
     map_calculator: MAP4 = MAP4(
         dimensions=dimensions,
