@@ -119,3 +119,4 @@ dmypy.json
 setup.cfg
 .vscode
 *.tsv
+test_readme.py
