@@ -1,5 +1,11 @@
 # MAP4
 
+[![PyPI](https://badge.fury.io/py/map4.svg)](https://badge.fury.io/py/map4)
+[![python](https://img.shields.io/pypi/pyversions/map4)](https://pypi.org/project/map4/)
+[![license](https://img.shields.io/pypi/l/map4)](https://pypi.org/project/map4/)
+[![Downloads](https://pepy.tech/badge/map4)](https://pepy.tech/projects/map4)
+[![Github Actions](https://github.com/LucaCappelletti94/map4/actions/workflows/python.yml/badge.svg)](https://github.com/LucaCappelletti94/map4/actions/)
+
 Map4 is a MinHash-based molecular fingerprint.
 
 ## How to install
