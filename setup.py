@@ -56,7 +56,7 @@ setup(
     tests_require=test_deps,
     extras_require=extras,
     classifiers=[
-        "Development Status :: 4 - Alpha",
+        "Development Status :: 4 - Beta",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
     ],
