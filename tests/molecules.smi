@@ -1,0 +1,64 @@
+CCCCCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OCCN)OC(=O)CCCCCCCCCCCCCCCC,Fatty acids,Glycerophospholipids,Glycerophosphoethanolamines
+CC(=O)OC1CC2(C)C(CC(O)C3C4(C)CCC(O)C(C)C4CCC32C)C1=C(CCC=C(C)C)C(=O)NS(C)(=O)=O,Terpenoids,Triterpenoids,Fusidane triterpenoids
+COc1ccc(C=CC(=O)c2cc(CC=C(C)C)c(OC)cc2O)cc1,Shikimates and Phenylpropanoids,Flavonoids,Chalcones
+CC[C@@H](C)C(=O)O[C@@H]1C[C@H](O)[C@]2(C)[C@H]3Cc4c(cc(O)c(-c5ccoc5)c4C)[C@]3(C)[C@H](O)[C@@H]3OC[C@@]1(C)[C@H]32,Terpenoids,Triterpenoids,Limonoids
+CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O[C@H](COC(=O)CCCCCCCCCCCC)COP(=O)([O-])OCC[N+](C)(C)C,Fatty acids,Glycerophospholipids,Glycerophosphocholines
+C=C1CC[C@H](O)C/C1=C/C=C1\CCC[C@@]2(COC(C)=O)[C@H]1CC[C@@H]2[C@H](C)CCCC(C)(C)O,Terpenoids,Steroids,Vitamin D3 and derivatives
+CNC1C(OC2C(OC3C(O)C(O)C(N=C(N)N)C(O)C3N=C(N)N)OC(C)C2(O)C=O)OC(CO)C(O)C1OP(=O)(O)O,Carbohydrates,Aminosugars and aminoglycosides,Aminoglycosides
+CCC(C)C1OC1(C)C1(O)C(C)=CC2CC(CO)=CCC2C1C=CC=CC=CC(=O)O,Polyketides,Cyclic polyketides,Decalins with side chains
+NCCCNCCCCN(CCCN)CCCN,Alkaloids,Ornithine alkaloids,Polyamines
+CC(=O)OCC1(C)C(OC(C)=O)CCC2(C)C1CC(=O)C13C=CC(C)(C(OC(C)=O)CC21)C3OC(C)=O,Terpenoids,Diterpenoids,Norkaurane diterpenoids
+CCC1OC(=O)C(C)C(OC2CC(C)(O)C(O)C(C)O2)C(C)C(OC2OC(C)CC([NH+](C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O,Polyketides,Macrolides,Erythromycins
+C=C(C)C1CC(=O)C(C)=C2SC21,Terpenoids,Monoterpenoids,Menthane monoterpenoids
+CC1(C)C=Cc2c(cc(O)c3c(=O)cc(-c4ccc(O)cc4)oc23)O1,Shikimates and Phenylpropanoids,Flavonoids,Flavones
+CCCCC/C=C\C/C=C\C/C=C\CCCCCCCCC(=O)OC[C@@H](COC(=O)CCCCCCC/C=C\CCCCCCC)OC(=O)CCCCCCCCCCC/C=C\CCCCCCCC,Fatty acids,Glycerolipids,Triacylglycerols
+O=C1Oc2cc(O)c3c(O)cccc3c2C1=C1C=Nc2ccccc21,Polyketides,Naphthalenes,Naphthoquinones
+COc1cc(C=CC(=O)OCC2C(O)CCC3C2(C)CCC2C3(C)CCC3(C(=O)O)C4CC(C)(C)CCC4(C)CCC23C)ccc1O,Terpenoids,Triterpenoids,Friedelane triterpenoids
+CCC(C)C(NC(=O)CNC(=O)CC(N)C(=O)NC(C(=O)NC(C(=O)NC1CC2(OC1=O)C(=O)Nc1ccccc12)C(C)CC)C(C)O)C(=O)NCC(=O)NC(CO)C(=O)NC(CCC(N)=O)C(=O)NC(C(=O)NC1CC2(OC1=O)C(=O)Nc1ccccc12)C(C)O,Amino acids and Peptides,Oligopeptides,RiPPs
+CC(C)C(C)C=CC(C)C1CCC2=C3C=CC4CC(O)CCC4(C)C3CCC21C,Terpenoids,Steroids,Ergostane steroids
+CC1=CC2C3=C(C)COOC3(O)CC(C)C2CC1=O,Terpenoids,Sesquiterpenoids,Cadinane sesquiterpenoids
+CCCCCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OCCN)OC(=O)CCCCCCCCCCCCCC,Fatty acids,Glycerophospholipids,Glycerophosphoethanolamines
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)O[C@H](COC(=O)CCCCCCC/C=C\CCCCCCC)COP(=O)(O)OCCN,Fatty acids,Glycerophospholipids,Glycerophosphoethanolamines
+CCCCCCC/C=C\CCCCCCCC(=O)OC[C@H](COC(=O)CCCCCCCCC/C=C\CCCCCCCC)OC(=O)CCCCCCCCCCCCCCCCCC,Fatty acids,Glycerolipids,Triacylglycerols
+CCOC(=O)CCCC#CC#CCCCCCCC#C/C=C/Br,Fatty acids,Fatty Acids and Conjugates,Halogenated fatty acids
+C=C/C=C/C#Cc1ccc(C#CC)s1,Fatty acids,Fatty acyls,Oxygenated hydrocarbons
+CN1CCC2(C)c3cc(OC(=O)Nc4cccc5ccccc45)ccc3N(C)C12,Alkaloids,Tryptophan alkaloids,Pyrroloindole alkaloids
+CC(C)=CC(=O)NC1=CC(=O)C2(C)C(O)CC(C)N12,Alkaloids,Ornithine alkaloids,Pyrrolizidine alkaloids
+CN1CCc2cccc3c2C1Cc1cccc(O)c1-3,Alkaloids,Tyrosine alkaloids,Isoquinoline alkaloids
+COC1N=C(N)NC23C(O)C4OC(O)(OC(C4O)C12)C3(O)CO,Alkaloids,Guanidine alkaloids,Tetrodotoxins
+COc1cc(O)c2c(=O)c(OC)c(-c3cc(OC)c(O)c(OC)c3)oc2c1,Shikimates and Phenylpropanoids,Flavonoids,Flavonols
+O=c1cc(-c2ccc(O)c(OC3OCC(O)C(O)C3O)c2)oc2cc(O)cc(O)c12,Shikimates and Phenylpropanoids,Flavonoids,Flavones
+C=C1C(=O)OC2C(O)C(C)=CCCC(C)=CCCC3(C)OC3CC12,Terpenoids,Diterpenoids,Cembrane diterpenoids
+CC1CC=C2C(C1)C2(C)C,Terpenoids,Monoterpenoids,Carane monoterpenoids
+COC1=C(N=[N+]=[N-])C(=O)c2ncccc2C1=O,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
+CC1Oc2c3c(c4c(-c5ccccc5)cc(=O)oc4c2C(=O)C1C)OC(C)(C)C=C3,Shikimates and Phenylpropanoids,Coumarins,Pyranocoumarins
+CC1CCCC(CC2Cc3cc(O)cc(O)c3C(=O)O2)O1,Shikimates and Phenylpropanoids,Coumarins,Isocoumarins
+CC(C)CC1C(=O)N(C)C(C(C)C)C(=O)OC(C)C(N(C)C(=O)c2ccccc2)C(=O)N(C)C(Cc2ccccc2)C(=O)NC(C(C)C)C(=O)NC(C(C)C)C(=O)N1C,Polyketides,Oligopeptides,Depsipeptides
+COc1ccc(-c2cc(=O)c3c(O)c(OC)c(OC4OC(CO)C(O)C(O)C4O)c(OC)c3o2)cc1,Shikimates and Phenylpropanoids,Flavonoids,Flavones
+CC1C=CC=CC=CC=CC=CC=CC=CC(OC2OC(C)C(O)C(NCc3ccc4c(c3)B(O)OC4)C2O)CC2OC(O)(CC(O)CC(O)C(O)CCC(O)CC(O)CC(=O)OC(C)C(C)C1O)CC(O)C2C(=O)NCCN(C)C,Polyketides,Macrolides,Polyene macrolides
+C=C(C)C(=O)C(C(=O)C=Cc1ccc(O)c(OC)c1)C(=O)C=Cc1ccc(O)c(OC)c1,Shikimates and Phenylpropanoids,Diarylheptanoids,Linear diarylheptanoids
+CCCCCCCCCCCCCCCOP1(=O)OCC2COC(=O)C2=C(CC)O1,Fatty acids,Glycerophospholipids,Long-Chain Bicyclic Phosphotriester
+CC(=O)OC1c2cc(O)c(c(O)c2)C(CCCC(Cl)Cl)CCCCC(C)C(OC(N)=O)c2cc(O)c(c(O)c2)C(CCCC(Cl)Cl)CCCCC1C,Polyketides,Alkylresorsinols,Dialkylresorcinols
+CCCCCCCCCCCCCCCCCCOC[C@H](COP(=O)(O)OC[C@@H](O)CO)OC(=O)CCCCCCCCCCCCCCCC,Fatty acids,Glycerophospholipids,Glycerophosphoglycerols
+CC(=O)OC1C(C)(C=O)C2=C(C=O)C(C)CC(O)C2C1(C)C,Terpenoids,Sesquiterpenoids,Botryane sesquiterpenoids
+CC1(C)CCC2(C(=O)O)CCC3(CC(=O)C=Cc4ccc(O)c(O)c4)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1,Terpenoids,Triterpenoids,Oleanane triterpenoids
+COc1cc(CC23COC(C=CC=CC=CC(=O)O)=CC2=C(Br)C(=O)C(C)(OC(=O)CC(O)CC(C)O)C3=O)c(C(C)=O)c(O)c1O,Polyketides,Chromanes,Azaphilones
+C=CC12COC(=O)C(=C)C1C(OC(C)=O)C1C(=C)C(=O)OC1C2,Terpenoids,Sesquiterpenoids,Elemane sesquiterpenoids
+CCCCCCCCCCCCCCCCCCCCC(=O)OC[C@@H](COC(=O)CCCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCCCC,Fatty acids,Glycerolipids,Triacylglycerols
+CCCCCC(=O)C1C(=O)OC2(C)C(=O)C=C3C=C(CC(C)OC(C)=O)OC=C3C12,Polyketides,Chromanes,Azaphilones
+C=C1/C(=C\C=C2/CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)CCCC(C)(C)O)CCC[C@@H]1O,Terpenoids,Steroids,Vitamin D3 and derivatives
+CC[C@H]1C(=O)C[C@H]2[C@@H]3CC[C@@H]4[C@H](O)[C@@H](O)CC[C@]4(C)[C@H]3CC[C@@]21C,Terpenoids,Steroids,Pregnane steroids
+CCCCCCC(C)CCCCCCCCCCCCC(O)CO,Fatty acids,Fatty acyls,Fatty alcohols
+COc1ccc(CNC(=O)OC2C(C)C(OC)C=COC3(C)Oc4c(C)c(O)c5c(c4C3=O)C(=O)C(N3CCOCC3)=C(NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C2C)C5=O)cc1,Polyketides,Macrolides,Ansa macrolides
+CC1OC(OCC2OC(Oc3cc4c(O)cc(OC5OC(COC(=O)c6ccc(OC7OC(CO)C(O)C(O)C7O)cc6)C(O)C(O)C5O)cc4[o+]c3-c3ccc(O)cc3)C(O)C(O)C2O)C(O)C(O)C1O,Shikimates and Phenylpropanoids,Flavonoids,Anthocyanidins
+Cc1cc(O)cc(O)c1C(=O)OC1CC2=C(COC(O)(CCC(=O)O)C2)C(=O)C1(C)O,Polyketides,Chromanes,Azaphilones
+CONCc1cn(C2OC(CO)C(O)C2O)c(=S)[nH]c1=O,Carbohydrates,Nucleosides,Pyrimidine nucleosides
+Cc1nc2c(c(=O)n(C)c(=O)n2C)n1CC(C)C,Alkaloids,Pseudoalkaloids (transamidation),Purine alkaloids
+CCCCCCCC/C=C\CCCCCCCCCC(=O)OC[C@@H](O)COP(=O)(O)OC[C@H](N)C(=O)O,Fatty acids,Glycerophospholipids,Glycerophosphoserines
+CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H](COP(=O)(O)OC[C@@H](O)CO)OC(=O)CCCCCCCCC/C=C\CCCCCCCCCC,Fatty acids,Glycerophospholipids,Glycerophosphoglycerols
+CCC(C)C(=O)C1C(=O)OC2(C)C(=O)C=C3C=C(C)OCC3C12,Polyketides,Chromanes,Azaphilones
+CC1(C)CC2C(=O)CC(O)C3OC3(C)CCC21,Terpenoids,Sesquiterpenoids,Caryophyllane sesquiterpenoids
+CC(C)=CCOc1c2c(cc3ccc(=O)oc13)CCO2,Shikimates and Phenylpropanoids,Coumarins,Furocoumarins
+COc1ccc2c3c([nH]c2c1)[C@@H](CO)N(S(=O)(=O)c1ccc(C)cc1)CC31CN(Cc2ccccc2)C1,Alkaloids,Tryptophan alkaloids,Carboline alkaloids
+C/C(=C\C(=O)O)C(=O)CC(C)C1(C)CCC2(C)C3=CCC4C(C)(C)C(O)CCC4(C)C3CC=C21,Terpenoids,Triterpenoids,"Lanostane, Tirucallane and Euphane triterpenoids"
+CC(C)(O)C1CCC2(C)CCCC(C)(O)C2C1,Terpenoids,Sesquiterpenoids,Eudesmane sesquiterpenoids
