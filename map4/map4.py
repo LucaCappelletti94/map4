@@ -74,7 +74,7 @@ class MAP4:
         mols: Iterable[Mol],
         number_of_threads: Optional[int] = None,
         verbose: bool = False,
-    ) -> List[np.ndarray]:
+    ) -> np.ndarray:
         """Calculates the atom pair minhashed fingerprint.
 
         Parameters
@@ -91,14 +91,18 @@ class MAP4:
             The fingerprints for each molecule
         """
         with Pool(number_of_threads) as pool:
-            fingerprints = list(
-                tqdm(
-                    pool.imap(self.calculate, mols),
-                    total=len(mols),
-                    desc="Calculating fingerprints",
-                    disable=not verbose,
-                )
+            fingerprints: np.ndarray = np.empty(
+                (len(mols), self.dimensions), dtype=np.uint8
             )
+            for i, fingerprint in tqdm(
+                enumerate(pool.imap(self.calculate, mols)),
+                total=len(mols),
+                leave=False,
+                dynamic_ncols=True,
+                desc="Calculating fingerprints",
+                disable=not verbose,
+            ):
+                fingerprints[i] = fingerprint
             pool.close()
             pool.join()
 
