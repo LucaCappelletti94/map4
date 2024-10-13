@@ -56,7 +56,7 @@ map4 = MAP4(
 )
 
 molecules: List[Mol] = [MolFromSmiles("CCO"), MolFromSmiles("CCN")]
-fingerprints: List[np.ndarray] = map4.calculate_many(
+fingerprints: np.ndarray = map4.calculate_many(
     molecules,
     # The number of threads to use
     number_of_threads=2,
